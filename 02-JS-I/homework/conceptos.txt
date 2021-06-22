@@ -1,0 +1,11 @@
+Variables: Una forma de guardar el valor de algo para utilizarlo luego
+
+Strings: Cualquier texto entre comillas ya sea simple o doble se considera string
+
+Valores booleanos: Como proviene de la logica de boole,significa que tiene dos opciones,verdadero o falso
+
+Funciones(argumentos,return): dentro de las mismas nosotros ejecutamos una funcion para despues poder invocarla con su mismo nombre respectivo
+Las return no regresan el resultado dentro de la funcion
+
+declaraciones if: son condiciones la cual nos muestra si algo se cumple o no en una funcion  
+
