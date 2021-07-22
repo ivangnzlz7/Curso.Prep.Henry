@@ -1,0 +1,1 @@
+Array = Es una lista que ofrece metodos para calcular operaciones dentro de la misma 
